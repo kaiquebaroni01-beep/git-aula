@@ -1,2 +1,9 @@
-"versionamento de software 3c" 
+"versionamento de software 3c - aula 05/03/2026" 
 alunos do 3c 
+
+estudamos sobre o git e como criar o repositorio local
+todos participaram
+foi um sucesso!!
+
+
+o mais gostosao!!
