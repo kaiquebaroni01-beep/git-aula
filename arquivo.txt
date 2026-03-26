@@ -5,7 +5,9 @@ estudamos sobre o git e como criar o repositorio local
 todos participaram
 foi um sucesso!!
 
-
 o mais gostosao!!
 
-o palmeiras e o maior do mundo!!
+o palmeiras e o maior do mundo!!      
+
+
+mudado no vscode
